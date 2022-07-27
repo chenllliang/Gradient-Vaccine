@@ -10,8 +10,8 @@ bash setup.py
 cd script
 
 bash preprocess.sh
-bash train.sh
-bash test.sh
+bash train.sh <databin-path>
+bash test.sh <databin-path> <model-path>
 
 # need to reset some paths in the bash scripts
 ```
