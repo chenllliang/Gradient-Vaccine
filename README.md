@@ -1,6 +1,6 @@
 Implementation of ICLR 2020 paper "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models"
 
-Based on Fairseq and Pytorch.
+Based on Fairseq and PyTorch.
 
 For details, refer to `fairseq/fairseq/tasks/translation_multi_simple_epoch_vaccine.py`
 
