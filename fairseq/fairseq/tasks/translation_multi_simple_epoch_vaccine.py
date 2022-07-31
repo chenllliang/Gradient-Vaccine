@@ -25,7 +25,7 @@ import torch.nn as nn
 import json,random
 from fairseq.logging import metrics
 from torch.nn.functional import cosine_similarity
-from .pcgrad import PCGrad
+
 
 
 random.seed(222)

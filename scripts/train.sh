@@ -9,7 +9,7 @@
 root_dir=../data
 
 
-lang_list=$root_dir/lang_list.txt  # <path to a file which contains a list of languages separted by new lines>
+lang_list=$root_dir/langs.txt  # <path to a file which contains a list of languages separted by new lines>
 lang_pairs=ro_RO-en_XX,fr_XX-en_XX  # translation directions
 
 BIN=$root_dir/multilingual_bin
