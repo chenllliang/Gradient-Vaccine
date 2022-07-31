@@ -4,7 +4,7 @@ pip install tensorboardX
 pip install jupyter
 pip install tensorboard
 
-# for windows user, should be in adminitrator mode and install visual studio .
+# for windows user, should be in administrator	 mode and having installed visual studio .
 
 cd fairseq
 pip install --editable ./
