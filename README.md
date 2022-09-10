@@ -18,7 +18,7 @@ bash test.sh <databin-path> <model-path>
 
 ## Results
 
-WMT10 EN -> FR(High-R),RO(Low-R) , sp=1  :
+WMT10 EN -> FR(High-R),RO(Low-R) , Temperature=1  :
 |        BLEU           | fr    | ro    | avg    |
 |---------------------------------------|-------|-------|--------|
 | Baseline Multilingual                 | 34.2  | 31.86 | 33.03  |
