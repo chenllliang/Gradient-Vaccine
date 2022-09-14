@@ -2,6 +2,8 @@ Implementation of ICLR 2021 paper "Gradient Vaccine: Investigating and Improving
 
 For details, refer to `fairseq/fairseq/tasks/translation_multi_simple_epoch_vaccine.py`,`fairseq/fairseq/optim/adam.py`
 
+Discussion or issue is welcome ~
+
 
 ## Run
 ```
